@@ -33,7 +33,7 @@ Open [https://localhost:5001](https://localhost:5001) in your browser.
 }
 ```
 
-- *Query* person with a name `"Rachelle"`
+- *Query* person with name `"Rachelle"`
 ```
 {
   allPersons(name: "Rachelle") {
