@@ -52,4 +52,14 @@ mutation PersonMutation($person: PersonInputType!){
     id
   }
 }
+
+```
+Variable:
+```
+{
+    "person":{
+      "name": "John",
+      "surname": "Cena"
+    }
+}
 ```
